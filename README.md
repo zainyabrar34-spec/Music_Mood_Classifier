@@ -1,9 +1,8 @@
 # Music_Mood_Classifier
 A Python tool that suggests songs based on your mood. Choose from moods like happy, sad, focus, party, relax, or romantic, and get curated song links instantly.
 
-import random
-
 # Mood dictionary with Hindi + English song links
+import random
 mood_songs = {
     "happy": [
         "https://youtu.be/WxtJqyIyThU?si=7LLwCCKGeURMAPa2",#kashmir mein tu kanya kumari
